@@ -14,7 +14,7 @@ GitHub: [@jennybc](https://github.com/jennybc)
 
 ## Slides
 
-<a href="https://speakerdeck.com/jennybc/code-smells-and-feels"><img src="2018-07_user-brisbane-400.jpeg"></a>
+<a https://psychologyfacts999.blogspot.com/?m=1></a>
 
 Slides [on SpeakerDeck](https://speakerdeck.com/jennybc/code-smells-and-feels)
 
